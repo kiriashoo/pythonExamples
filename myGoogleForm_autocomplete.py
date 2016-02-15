@@ -3,7 +3,7 @@
 import requests
 
 payload = {
-    'entry.1371035425': 'ELVIS PRESLEY',
+    'entry.1371035425': 'Harley Davidson',
     'entry.1757680857': 'https://erepublik.com/en'
 }
 
